@@ -20,7 +20,7 @@
 - 🌍 Kenyan innovator solving local problems with global standards  
 - 🌱 Currently learning **TypeScript**, **DevOps**, and **AI workflows**  
 - 🤝 Looking to collaborate on **open-source**, **security tools**, or **SaaS products**  
-- ✉️ Reach out: [njenga.kimani.dev@gmail.com](mailto:njenga.kimani.dev@gmail.com)  
+- ✉️ Reach out: [Geffkimani@gmail.com](mailto:kymanidevvv@gmail.com)  
 - ⚡ Fun fact: _"I believe great code tells a story."_
 
 ---
